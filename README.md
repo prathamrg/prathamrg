@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathamrg
-- I am a Data Scientist & an Electrical Engineer
-- 👀 I’m interested in DataScience, Blockchain Dapp Development and Renewable Energy
+- I am a Data Scientist, Electrical Engineer, Drummer, Blockchain Dapp Developer and a Green Energy Enthusiast!
+- 👀 I’m interested in Data Science, Blockchain Dapp Development, Solar Energy and Smart Grids
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Blockchain (DeFi) Projects
 - 📫 How to reach me: goel.pratham@btech2013.iitgn.ac.in
